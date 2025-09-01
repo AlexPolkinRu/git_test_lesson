@@ -3,3 +3,4 @@ Second line !!!!!!!
 Third line
 Какой-то новый путь развития в main
 Local change
+Remote change
